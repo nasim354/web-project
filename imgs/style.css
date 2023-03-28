@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px;
+}
+.atikul{
+    color:orange;
+}
+.half-weidth{
+    width:30%;
+    margin-left:3%;
+    padding-laft:10%;
+    float: left;
+
+}
+
+
+img{
+    width:100%;
+}
+.half-weidth img{
+   width: 100%;
+   margin-left: 40%;
+
+}
