@@ -1,3 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.area{
+    height: 1000%;
+    width: 1000px;
+
+}
+
+}
+
 h1{
     font-size: 30px;
 }
@@ -6,18 +18,81 @@ h1{
 }
 .half-weidth{
     width:30%;
-    margin-left:3%;
+    margin-left:7%;
     padding-laft:10%;
-    float: left;
+   float:left;
 
 }
 
-
-img{
-    width:100%;
-}
 .half-weidth img{
    width: 100%;
-   margin-left: 40%;
+   margin-left:250px;
+   
 
+}
+
+
+.nasim{
+    font:bold;
+    text-decoration: none;
+    color:white;
+    background-color:rgb(202, 202, 9);
+    border-radius: 7px;
+    padding:10px 20px;
+}
+
+.half-lup img{
+    width: 250px;
+    margin: 30px;
+    border-radius: 30px;
+    
+ 
+ }
+
+.half-weidt{
+    width:30%;
+    margin-left:250PX;
+    padding-left:400px;
+   
+
+}
+.golap{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h1:hover{
+    color:green;
+}
+h3:hover{
+    color:rgb(4, 42, 195);
+}
+p:hover{
+    color:rgb(255, 0, 183);
+}
+.orange-highlight{
+    color:orange;
+}
+.single-coltetion{
+    box-shadow:5px 5px 60px slategrey;
+    height: 80%;
+    border-radius: 10px ;
+    width: 40%;
+color: slategray;
+font-size: 14px;
+
+}
+#full{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby{
+    border-left:8px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
 }
